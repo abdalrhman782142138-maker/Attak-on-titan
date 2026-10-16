@@ -1,2 +1,8 @@
-# Attak-on-titan
-Flutter project created by KLENCOD IDE
+# حرّاس الجدار (Wall Guardians)
+
+لعبة تصويب بمنظور علوي: احمِ الجدار من موجات العمالقة، واستهدف نقطة الضعف الحمراء على ظهر كل عملاق.
+
+- Flutter، أندرويد فقط، بدون صور (كل الرسم بالكود).
+- الاعتماد الوحيد: shared_preferences.
+- معرّف التطبيق: com.example.wallguardians (مستقل عن تطبيق تماريني).
+- أرقام الصعوبة كلها في lib/constants.dart.
